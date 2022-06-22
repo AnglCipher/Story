@@ -1,0 +1,3 @@
+git branch alien-plot : used for creating an experimental branch called alien-plot.
+git branch : is used to list all the branches including the master branch.
+git checkout alien-plot : is used to switch the working branch to alien-plot.
